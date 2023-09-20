@@ -1,0 +1,14 @@
+canvas {
+    box-shadow: 20px 10px 50px black;
+    /* width: 600px;
+    height: 600px; */
+}
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(rgb(12,131,202), rgb(56,189,200), rgb(51,222,30))
+}
